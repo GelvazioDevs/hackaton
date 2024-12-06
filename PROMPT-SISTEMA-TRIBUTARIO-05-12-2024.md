@@ -48,7 +48,25 @@ que vai conter os seguintes Campos:
 - Cidade:Taió
 
 [Produtos]
+- produto 01:
+	id=1
+	descricao=Computador
+	quantidade=10
+	valorunitario=4500,00
+	ncmsh=154264
+	taxaimposto=17
+	totalliquido=450000,00
+	totalcomimposto=450000,00
 
+- produto 02:
+	id=2
+	descricao=Teclado
+	quantidade=10
+	valorunitario=45,00
+	ncmsh=154264
+	taxaimposto=17
+	totalliquido=450,00
+	totalcomimposto=450,00
 
 [Impostos]
 - ICMS = Valor total dos impostos de ICMS.
